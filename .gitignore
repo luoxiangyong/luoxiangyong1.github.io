@@ -1,7 +1,4 @@
-# jekyll
-_site
-.sass-cache
-.jekyll-metadata
+
 
 # Python
 *.py[cd]
@@ -31,6 +28,17 @@ _site
 # gradle
 .gradle
 
+# jekyll
+_site
+.sass-cache
+.jekyll-metadata
+
+# node.js
+node_modules
+
+.DS_Store
+*/.DS_Store
+*/*/.DS_Store
 
 
 # misc temp files
